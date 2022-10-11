@@ -3,6 +3,7 @@ untuk pembelajaran beberapa hari ini kita di fokuskan untuk membuat web server d
 1.	WebServer.java
 2.	Server.java
 3.	http_protokol.java
+
 Webserver.java digunakan untuk menampilkan method main yang artinya semua instruksi di dalam fungsi tersebut biasanya digunakan untuk memanggil fungsi lain agar program berjalan sesuai tujuan.
 file class server.java digunakan untuk membangun server tertatanam.
 File http_protokol dikaitkan dengan file server untuk memproses permintaan. Setiap ada request yang ditemukan  maka akan muncul pesan “ada request dari browser ”  dan apabila data permintaan atau request tidak di temukan ditolak dengan respons “kosong”
